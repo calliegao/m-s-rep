@@ -3,7 +3,9 @@ Multiscale skeletal representation
 
 This repository storges code and results for the paper "MR-based spatiotemporal anisotropic atrophy evaluation of hippocampus in AD progression by multiscale skeletal representation". 
 
+
 Files in this repository:
+
 
 SpokeInterpolation.py: Interpolate original s-rep.
 
